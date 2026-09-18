@@ -50,28 +50,41 @@ Plattform, auf der Softwareprojekte liegen. Dort legen wir dein Projekt ab.
 
 ## Teil 2: Dein KI-Agent
 
-Such den Eintrag, der auf dich zutrifft, und mach nur diesen. Alle Erweiterungen installierst du in VS Code über das Extensions-Symbol links.
+Such den Eintrag, der auf dich zutrifft, und mach nur diesen. Jeder Agent läuft auf zwei Arten: als Erweiterung in VS Code (Extensions-Symbol links) oder direkt im Terminal. Der Link führt jeweils zur Installationsanleitung des Anbieters, der Befehl startet den Agenten im Terminal.
 
 ### Kein Abo, oder unsicher
 
-**Antigravity** von Google. Kostenlose Stufe ohne Kreditkarte, nur ein Google-Konto nötig.
+[**Antigravity**](https://antigravity.google/docs) von Google. Kostenlose Stufe ohne Kreditkarte, nur ein Google-Konto nötig.
 
-- Erweiterung **Google Antigravity** installieren. Herausgeber muss **Google** sein; es gibt ähnlich benannte von anderen Anbietern.
+- VS Code: Erweiterung **Google Antigravity** installieren. Herausgeber muss **Google** sein; es gibt ähnlich benannte von anderen Anbietern.
+- Terminal: `agy`
 - Mit dem Google-Konto anmelden.
 
 > Die kostenlose Stufe hat ein Tageskontingent. Verbrauch es nicht am Vortag.
 
 ### Claude-Abo (Pro oder Max)
 
-**Claude Code**, im Abo enthalten. Erweiterung **Claude Code** von Anthropic installieren, mit dem Claude-Konto anmelden.
+[**Claude Code**](https://code.claude.com/docs/en/quickstart), im Abo enthalten.
+
+- VS Code: Erweiterung **Claude Code** von Anthropic.
+- Terminal: `claude`
+- Mit dem Claude-Konto anmelden.
 
 ### ChatGPT-Abo (Plus oder Pro)
 
-**Codex**, im Abo enthalten. Erweiterung **Codex** von OpenAI installieren, mit dem OpenAI-Konto anmelden.
+[**Codex**](https://developers.openai.com/codex/cli), im Abo enthalten.
+
+- VS Code: Erweiterung **Codex** von OpenAI.
+- Terminal: `codex`
+- Mit dem OpenAI-Konto anmelden.
 
 ### GitHub Copilot
 
-Erweiterung **GitHub Copilot** installieren, mit dem GitHub-Konto anmelden. Jedes GitHub-Konto hat eine kostenlose Stufe mit begrenztem Kontingent.
+[**GitHub Copilot**](https://docs.github.com/en/copilot/how-tos/copilot-cli). Jedes GitHub-Konto hat eine kostenlose Stufe mit begrenztem Kontingent.
+
+- VS Code: Erweiterung **GitHub Copilot**.
+- Terminal: `copilot`
+- Mit dem GitHub-Konto anmelden.
 
 ### Perplexity-Abo
 
